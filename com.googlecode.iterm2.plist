@@ -24,8 +24,6 @@
 	<true/>
 	<key>HideFromDockAndAppSwitcher</key>
 	<true/>
-	<key>HideTab</key>
-	<false/>
 	<key>HotKeyBookmark</key>
 	<string>8C79BD55-4549-4466-B056-A914BCEB1F79</string>
 	<key>HotKeyTogglesWindow</key>
@@ -41,7 +39,7 @@
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/repos/dotfiles/mydotfiles</string>
+	<string>~</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -82,14 +80,12 @@
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>261 187 691 94 0 0 1680 1027 </string>
-	<key>NSWindow Frame ProfilesPanel</key>
-	<string>135 646 735 382 0 0 1680 1028 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>530 478 620 392 0 0 1680 1028 </string>
+	<string>530 477 620 392 0 0 1680 1027 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>198 571 606 456 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>150 516 796 473 0 0 1680 1028 </string>
+	<string>150 554 796 473 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1680 451 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
@@ -249,16 +245,12 @@
 			<true/>
 			<key>Background Color</key>
 			<dict>
-				<key>Alpha Component</key>
-				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.12042239308357239</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.0</real>
 				<key>Green Component</key>
-				<real>0.091194488108158112</real>
+				<real>0.0</real>
 				<key>Red Component</key>
-				<real>0.089510686695575714</real>
+				<real>0.0</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
@@ -684,7 +676,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.030267659023668639</real>
+			<real>0.26739552514792903</real>
 			<key>Unlimited Scrollback</key>
 			<false/>
 			<key>Use Bold Font</key>
@@ -720,7 +712,7 @@
 	<key>OpenBookmark</key>
 	<false/>
 	<key>OpenNoWindowsAtStartup</key>
-	<true/>
+	<false/>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -755,9 +747,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/tareq/repos/dotfiles/mydotfiles</string>
-	<key>QuitWhenAllWindowsClosed</key>
-	<false/>
+	<string>/Users/tareq</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -767,7 +757,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-03-17T09:35:11Z</date>
+	<date>2017-01-24T20:19:52Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -775,16 +765,12 @@
 	<key>SmartPlacement</key>
 	<true/>
 	<key>TabStyle</key>
-	<integer>3</integer>
+	<integer>1</integer>
 	<key>TabViewType</key>
 	<integer>0</integer>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
 	<key>iTerm Version</key>
-	<string>3.0.14</string>
-	<key>kCPKSelectionViewPreferredModeKey</key>
-	<integer>0</integer>
-	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
-	<false/>
+	<string>3.0.13</string>
 </dict>
 </plist>
